@@ -1,0 +1,4 @@
+{
+  "operators": ["Raphael_xt", "operator2", "admin_user"],
+  "bots": ["bot1", "bot2", "notification_bot"]
+}
